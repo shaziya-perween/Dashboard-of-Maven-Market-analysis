@@ -1,5 +1,5 @@
 # Dashboard-of-Maven-Market-analysis
-## Descriotion 
+## Description 
 Welcome to the Maven Market Analysis Dashboard, a powerful business intelligence tool designed to provide in-depth insights into market performance and trends. This dashboard, created with Power BI, is tailored for market analysts, business owners, and data enthusiasts looking to track key performance indicators (KPIs) and make data-driven decisions.
 
 Data Integration: Leveraged Power Query to integrate and refine data from diverse sources for dashboard use.
@@ -27,11 +27,10 @@ Data Visualization: Designed interactive data visualizations for insightful repo
  14. Total quantity returned by top 5 product.
  15. Total profit by top 5 product brand.
  16. Total returned quantity by top 5 store state.
- 17. 
- 18. 
- 19. 
+     
  ## Usage
 Designed for business analysts, sales managers, and data enthusiasts, this dashboard provides a user-friendly interface with customizable options to cater to specific analysis needs.
 The Maven Market Analysis Dashboard is a versatile tool designed for flexibility and depth. Users can slice and dice the data to uncover underlying trends, validate business strategies, and predict future performance.
+
 
 
